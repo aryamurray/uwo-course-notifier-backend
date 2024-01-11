@@ -1,1 +1,0 @@
-# uwo-course-notifier-backend

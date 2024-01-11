@@ -1,4 +1,4 @@
-export const departmentCodes = {
+export const departmentObject = {
     "Actuarial Science": "ACTURSCI",
     "American Sign Language": "ASL",
     "American Studies": "AMERICAN",
