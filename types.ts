@@ -1,21 +1,26 @@
 import { z } from "zod"
 
+export const courseComponentSchema = z.object({
+    nbr: z.string(),
+    section: z.string(),
+    component: z.string(),
+    status: z.string(),
+    campus: z.string(),
+    delivery: z.string()
+})
+
+export type courseComponent = z.infer<typeof courseComponentSchema>
+
 export const courseSchema = z.object({
     name: z.string(),
-    id: z.number(),
-    nbr: z.number(),
-    section: z.string(),
     description: z.string(),
-    component: z.enum(["LEC" , "TUT" , "LAB"]),
-    status: z.enum(["Full", "Not Full"]),
-    campus: z.enum(["Main", "Brescia", "Kings", "Huron"]),
-    delivery: z.enum(["In Person", "Blended", "Online"])
+    components: z.array(courseComponentSchema)
 })
 
 export type course = z.infer<typeof courseSchema>
 
 export const userSchema = z.object({
-    username: z.string().email().refine(email => {
+    username: z.string().email().refine((email: string) => {
         // Extract the domain from the email
         const domain = email.substring(email.lastIndexOf("@") + 1);
         // Check if the domain is valid

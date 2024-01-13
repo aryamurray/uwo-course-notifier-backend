@@ -1,16 +1,32 @@
-// src/index.js
-import express, { Express, Request, Response } from "express";
-import dotenv from "dotenv";
+import 'dotenv/config'
+import getProxies, { changeProxy } from './proxy.js';
+import * as cron from 'cron';
+import { getCourses } from './scrape.js';
 
-dotenv.config();
+console.log(`[Info] Pocketbase URL is ${process.env.POCKETBASE_URL}`);
 
-const app: Express = express();
-const port = process.env.PORT || 3000;
+let proxyList = await getProxies();
+let proxy = changeProxy(proxyList);
 
-app.get("/", (req: Request, res: Response) => {
-  res.send("Express + TypeScript Server");
-});
+const cronProxy = new cron.CronJob(
+	'0 * * * *', // cronTime
+	async function () {
+    proxyList = await getProxies();
+		console.log('[Info] Fetched a new ProxyList');
+	}, // onTick
+	null, // onComplete
+	true, // start
+	'America/Toronto' // timeZone
+);
 
-app.listen(port, () => {
-  console.log(`[server]: Server is running at http://localhost:${port}`);
-});
+// const newJob = new cron.CronJob(
+// 	'0 * * * *', // cronTime
+// 	async function () {
+//     proxyList = await getProxies();
+// 		console.log('[Info] Fetched a new ProxyList');
+// 	}, // onTick
+// 	null, // onComplete
+// 	true, // start
+// 	'America/Toronto' // timeZone
+// );
+
