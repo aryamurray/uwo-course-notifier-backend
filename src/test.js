@@ -42,7 +42,9 @@ let newCourses = [];
 
   courseTables.forEach((course) => {
     const components = course.querySelectorAll('tbody tr')
-    console.log(components[0].structuredText)
+    components.map((component) =>{
+        
+    })
   })
 
   console.log(courseTables.text)
