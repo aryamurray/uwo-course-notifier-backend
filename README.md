@@ -1,7 +1,7 @@
 <!--
 *** Shout out to cbaron3 @ https://github.com/cbaron3
 *** for this README template. Most of this is from his repository over at https://github.com/cbaron3/uwo-tt-api
-***
+*** All the code here is my own. 
 -->
 
 
@@ -39,7 +39,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-For current Western students, there is no possible way to be notifier when a full course develops an opening and lacks a waitlist. The current best alternative is to persistantly check student centre for an opening and hope you can enroll before someone else does. This platform seeks to remedy the stress of course enrollment by automatically checking for you and notifing you via email when a spot arises. 
+For current Western students, there is no possible way to be notifier when a full course develops an opening and lacks a waitlist. The current best alternative is to persistantly check student centre for an opening and hope you can enroll before someone else does. This platform seeks to remedy the stress of course enrollment by automatically checking for you and notifing you via email when a spot arises. This repository isn't really intended for people to run themselves, however if you'd like to fork it and make it your own, feel free to.
 
 
 <!-- GETTING STARTED -->

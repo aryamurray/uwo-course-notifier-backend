@@ -1,4 +1,4 @@
-import axios, { AxiosProxyConfig } from "axios";
+import axios, { AxiosProxyConfig, AxiosResponse } from "axios";
 import { course, courseComponent } from "../types.js";
 import qs from "qs";
 import { parse } from "node-html-parser";
@@ -6,8 +6,7 @@ import { parse } from "node-html-parser";
 export async function getCourses(
   proxyConfig: AxiosProxyConfig,
   subject: string
-): Promise<course[] | null> {
-  let QueriedCourses: course[] = [];
+): Promise<AxiosResponse> {
   let data = qs.stringify({
     subject: subject,
     Designation: "Any",
@@ -26,15 +25,26 @@ export async function getCourses(
       "Content-Type": "application/x-www-form-urlencoded",
     },
     data: data,
-    proxyConfig
+    proxyConfig,
   };
 
-
-  console.log(`[Info] About to Scrape ${subject} with the proxy ${proxyConfig.host}:${proxyConfig.port}`);
+  console.log(
+    `[Info] About to Scrape ${subject} with the proxy ${proxyConfig.host}:${proxyConfig.port}`
+  );
   const res = await axios.request(config);
-  const root = parse(res.data);
 
-  //Handle invalid proxy and/or error
+  if (res.status == 400) throw new Error("[Error] The Proxy is Broken")
+  if (res.status == 429) throw new Error("[Error] Rate Limit Reached")
+  if (res.status != 200) throw new Error("[Error] General Request Error")
+  
+  return res;
+}
+
+export function parseCourse(page: AxiosResponse): course[] {
+  let coursesArray: course[] = [];
+
+  const root = parse(page.data);
+
   const courseTitles = root.querySelectorAll(".span12 h4").map((title) => {
     return title.text;
   });
@@ -46,26 +56,25 @@ export async function getCourses(
     return table.querySelector("tbody");
   });
 
-
   for (let i = 0; i < courseTitles.length; i++) {
     let addCourse = {
       name: courseTitles[i],
       description: courseDescriptions[i],
-      components: courseTables[i]?.querySelectorAll('tr').map((component) => {
-        const info = component.querySelectorAll('td')
-        const innerComponent:courseComponent = {
+      components: (courseTables[i]?.querySelectorAll("tr") ?? []).map((component) => {
+        const info = component.querySelectorAll("td");
+        const innerComponent: courseComponent = {
           section: info[0].structuredText,
           component: info[1].structuredText,
           nbr: info[2].structuredText,
           status: info[4].structuredText,
           campus: info[5].structuredText,
-          delivery: info[6].structuredText
-        }
+          delivery: info[6].structuredText,
+        };
         return innerComponent;
-      })
+      }),
     };
-    console.log(addCourse)
+    coursesArray.push(addCourse);
   }
 
-  return QueriedCourses;
+  return coursesArray;
 }

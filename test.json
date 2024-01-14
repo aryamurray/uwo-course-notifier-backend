@@ -1,0 +1,3352 @@
+[
+  {
+    "name": "COMPSCI 1026A - COMP SCI FUNDAMENTALS I",
+    "description": "Course Description: The nature of Computer Science as a discipline; the design and analysis of algorithms and their implementation as modular, reliable, well-documented programs written in a modern programming language. Intended for students with little or no background in programming. Antirequisite(s): Computer Science 1025A/B, Computer Science 2120A/B, Data Science 1200A/B, Engineering Science 1036A/B, Digital Humanities 2220A/B. Extra Information: 3 lecture hours, 2 laboratory/tutorial hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1269",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1269",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "002",
+        "component": "LEC",
+        "nbr": "1504",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "002",
+        "component": "LEC",
+        "nbr": "1504",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "003",
+        "component": "LEC",
+        "nbr": "4880",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "003",
+        "component": "LEC",
+        "nbr": "4880",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "650",
+        "component": "LEC",
+        "nbr": "4572",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " Distance Studies/Online"
+      },
+      {
+        "section": "004",
+        "component": "LAB",
+        "nbr": "1960",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "005",
+        "component": "LAB",
+        "nbr": "1961",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "006",
+        "component": "LAB",
+        "nbr": "1962",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "007",
+        "component": "LAB",
+        "nbr": "1963",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "008",
+        "component": "LAB",
+        "nbr": "1964",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "009",
+        "component": "LAB",
+        "nbr": "1965",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "010",
+        "component": "LAB",
+        "nbr": "1966",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "011",
+        "component": "LAB",
+        "nbr": "2311",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "012",
+        "component": "LAB",
+        "nbr": "3014",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "013",
+        "component": "LAB",
+        "nbr": "3015",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "014",
+        "component": "LAB",
+        "nbr": "3205",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "015",
+        "component": "LAB",
+        "nbr": "3208",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "016",
+        "component": "LAB",
+        "nbr": "3478",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "017",
+        "component": "LAB",
+        "nbr": "3479",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "018",
+        "component": "LAB",
+        "nbr": "3496",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "019",
+        "component": "LAB",
+        "nbr": "3664",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "020",
+        "component": "LAB",
+        "nbr": "3665",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "021",
+        "component": "LAB",
+        "nbr": "4034",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "022",
+        "component": "LAB",
+        "nbr": "4039",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "023",
+        "component": "LAB",
+        "nbr": "4314",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "024",
+        "component": "LAB",
+        "nbr": "4315",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "025",
+        "component": "LAB",
+        "nbr": "4440",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "026",
+        "component": "LAB",
+        "nbr": "4510",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "027",
+        "component": "LAB",
+        "nbr": "4511",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "028",
+        "component": "LAB",
+        "nbr": "1959",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "029",
+        "component": "LAB",
+        "nbr": "5853",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "030",
+        "component": "LAB",
+        "nbr": "5854",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "031",
+        "component": "LAB",
+        "nbr": "5855",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 1026B - COMP SCI FUNDAMENTALS I",
+    "description": "Course Description: The nature of Computer Science as a discipline; the design and analysis of algorithms and their implementation as modular, reliable, well-documented programs written in a modern programming language. Intended for students with little or no background in programming. Antirequisite(s): Computer Science 1025A/B, Computer Science 2120A/B, Data Science 1200A/B, Engineering Science 1036A/B, Digital Humanities 2220A/B. Extra Information: 3 lecture hours, 2 laboratory/tutorial hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1270",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1270",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "002",
+        "component": "LEC",
+        "nbr": "6997",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "002",
+        "component": "LEC",
+        "nbr": "6997",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "003",
+        "component": "LEC",
+        "nbr": "6998",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "003",
+        "component": "LEC",
+        "nbr": "6998",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "650",
+        "component": "LEC",
+        "nbr": "6999",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " Distance Studies/Online"
+      },
+      {
+        "section": "004",
+        "component": "LAB",
+        "nbr": "1969",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "005",
+        "component": "LAB",
+        "nbr": "1970",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "006",
+        "component": "LAB",
+        "nbr": "3016",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "007",
+        "component": "LAB",
+        "nbr": "4316",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "008",
+        "component": "LAB",
+        "nbr": "4317",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "009",
+        "component": "LAB",
+        "nbr": "4846",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "010",
+        "component": "LAB",
+        "nbr": "5856",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "011",
+        "component": "LAB",
+        "nbr": "1967",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "012",
+        "component": "LAB",
+        "nbr": "1968",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "013",
+        "component": "LAB",
+        "nbr": "6984",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "014",
+        "component": "LAB",
+        "nbr": "6985",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "015",
+        "component": "LAB",
+        "nbr": "6986",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "016",
+        "component": "LAB",
+        "nbr": "6987",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "017",
+        "component": "LAB",
+        "nbr": "6988",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "018",
+        "component": "LAB",
+        "nbr": "6989",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "019",
+        "component": "LAB",
+        "nbr": "6990",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "020",
+        "component": "LAB",
+        "nbr": "6991",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "021",
+        "component": "LAB",
+        "nbr": "6992",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "022",
+        "component": "LAB",
+        "nbr": "6993",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "023",
+        "component": "LAB",
+        "nbr": "6994",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "024",
+        "component": "LAB",
+        "nbr": "6995",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "025",
+        "component": "LAB",
+        "nbr": "6996",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 1027A - COMP SCI FUNDAMENTALS II",
+    "description": "Course Description: A continuation for both Computer Science 1025A/B and Computer Science 1026A/B. Data organization and manipulation; abstract data types and their implementations in a modern programming language; lists, stacks, queues, trees; recursion; file handling and storage. Antirequisite(s): Computer Science 1037A/B, Computer Science 2121A/B, Digital Humanities 2221A/B. Extra Information: 3 lecture hours, 1 laboratory/tutorial hour.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "3960",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "3960",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "003",
+        "component": "LAB",
+        "nbr": "3961",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "004",
+        "component": "LAB",
+        "nbr": "3962",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "005",
+        "component": "LAB",
+        "nbr": "4312",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "006",
+        "component": "LAB",
+        "nbr": "4313",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "007",
+        "component": "LAB",
+        "nbr": "4509",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "002",
+        "component": "LEC",
+        "nbr": "4946",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "002",
+        "component": "LEC",
+        "nbr": "4946",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "008",
+        "component": "LAB",
+        "nbr": "4947",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "009",
+        "component": "LAB",
+        "nbr": "4948",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "010",
+        "component": "LAB",
+        "nbr": "4949",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 1027B - COMP SCI FUNDAMENTALS II",
+    "description": "Course Description: A continuation for both Computer Science 1025A/B and Computer Science 1026A/B. Data organization and manipulation; abstract data types and their implementations in a modern programming language; lists, stacks, queues, trees; recursion; file handling and storage. Antirequisite(s): Computer Science 1037A/B, Computer Science 2121A/B, Digital Humanities 2221A/B. Extra Information: 3 lecture hours, 1 laboratory/tutorial hour.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1271",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1271",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "002",
+        "component": "LEC",
+        "nbr": "1272",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "002",
+        "component": "LEC",
+        "nbr": "1272",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "003",
+        "component": "LEC",
+        "nbr": "4885",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "003",
+        "component": "LEC",
+        "nbr": "4885",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "004",
+        "component": "LAB",
+        "nbr": "1972",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "005",
+        "component": "LAB",
+        "nbr": "1973",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "006",
+        "component": "LAB",
+        "nbr": "1974",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "007",
+        "component": "LAB",
+        "nbr": "1975",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "008",
+        "component": "LAB",
+        "nbr": "1976",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "009",
+        "component": "LAB",
+        "nbr": "2925",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "010",
+        "component": "LAB",
+        "nbr": "3017",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "011",
+        "component": "LAB",
+        "nbr": "3206",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "012",
+        "component": "LAB",
+        "nbr": "3209",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "013",
+        "component": "LAB",
+        "nbr": "3484",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "014",
+        "component": "LAB",
+        "nbr": "3504",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "015",
+        "component": "LAB",
+        "nbr": "3666",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "016",
+        "component": "LAB",
+        "nbr": "3667",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "017",
+        "component": "LAB",
+        "nbr": "4035",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "018",
+        "component": "LAB",
+        "nbr": "4318",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "019",
+        "component": "LAB",
+        "nbr": "4319",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "020",
+        "component": "LAB",
+        "nbr": "4505",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "021",
+        "component": "LAB",
+        "nbr": "4506",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "022",
+        "component": "LAB",
+        "nbr": "4507",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "023",
+        "component": "LAB",
+        "nbr": "4508",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "024",
+        "component": "LAB",
+        "nbr": "1971",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "025",
+        "component": "LAB",
+        "nbr": "4886",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "026",
+        "component": "LAB",
+        "nbr": "4887",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "027",
+        "component": "LAB",
+        "nbr": "4888",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "028",
+        "component": "LAB",
+        "nbr": "4889",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "029",
+        "component": "LAB",
+        "nbr": "4890",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "030",
+        "component": "LAB",
+        "nbr": "4891",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "031",
+        "component": "LAB",
+        "nbr": "4892",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "032",
+        "component": "LAB",
+        "nbr": "4893",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "033",
+        "component": "LAB",
+        "nbr": "5857",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "034",
+        "component": "LAB",
+        "nbr": "5858",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 1032A - INFORMATION SYSTEMS & DESIGN",
+    "description": "Course Description: Techniques used for determining technological needs of businesses; building and managing systems to meet those needs; development roles of individuals and organizations; planning and management of concepts, personnel and processes; related software tools (spreadsheets, databases). Intended primarily for Management and Organizational Studies students. Antirequisite(s): Management and Organizational Studies 1033A/B. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1817",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1817",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "650",
+        "component": "LEC",
+        "nbr": "2245",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " Distance Studies/Online"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 1032B - INFORMATION SYSTEMS & DESIGN",
+    "description": "Course Description: Techniques used for determining technological needs of businesses; building and managing systems to meet those needs; development roles of individuals and organizations; planning and management of concepts, personnel and processes; related software tools (spreadsheets, databases). Intended primarily for Management and Organizational Studies students. Antirequisite(s): Management and Organizational Studies 1033A/B. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1551",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1551",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "650",
+        "component": "LEC",
+        "nbr": "2246",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " Distance Studies/Online"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 1033A - MULTIMEDIA AND COMMUNICATION I",
+    "description": "Course Description: This course explores the use of different types of media (e.g., text, images, sound, animation) to convey ideas and facilitate interaction. Topics include the design and use of a range of software tools for media creation and editing, covering image, sound, animation and video. This knowledge will be applied to authoring web sites. Extra Information: 2 lecture hours, 2 laboratory/tutorial hours.",
+    "components": [
+      {
+        "section": "200",
+        "component": "LEC",
+        "nbr": "1939",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " Blended"
+      },
+      {
+        "section": "201",
+        "component": "LEC",
+        "nbr": "1944",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " Blended"
+      },
+      {
+        "section": "003",
+        "component": "LAB",
+        "nbr": "1977",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "004",
+        "component": "LAB",
+        "nbr": "1978",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "005",
+        "component": "LAB",
+        "nbr": "1979",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "006",
+        "component": "LAB",
+        "nbr": "1980",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "007",
+        "component": "LAB",
+        "nbr": "2679",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "008",
+        "component": "LAB",
+        "nbr": "1981",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "009",
+        "component": "LAB",
+        "nbr": "1982",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "010",
+        "component": "LAB",
+        "nbr": "1983",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "011",
+        "component": "LAB",
+        "nbr": "1984",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "012",
+        "component": "LAB",
+        "nbr": "2896",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "013",
+        "component": "LAB",
+        "nbr": "1985",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "014",
+        "component": "LAB",
+        "nbr": "1986",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "015",
+        "component": "LAB",
+        "nbr": "2013",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "016",
+        "component": "LAB",
+        "nbr": "1987",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "017",
+        "component": "LAB",
+        "nbr": "1988",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "018",
+        "component": "LAB",
+        "nbr": "2012",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "019",
+        "component": "LAB",
+        "nbr": "2680",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "020",
+        "component": "LAB",
+        "nbr": "2880",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "021",
+        "component": "LAB",
+        "nbr": "1989",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "022",
+        "component": "LAB",
+        "nbr": "1990",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "023",
+        "component": "LAB",
+        "nbr": "1991",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "026",
+        "component": "LAB",
+        "nbr": "2014",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "027",
+        "component": "LAB",
+        "nbr": "2309",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "028",
+        "component": "LAB",
+        "nbr": "2310",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "029",
+        "component": "LAB",
+        "nbr": "3018",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "030",
+        "component": "LAB",
+        "nbr": "3019",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "031",
+        "component": "LAB",
+        "nbr": "3020",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "032",
+        "component": "LAB",
+        "nbr": "3495",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 1033B - MULTIMEDIA AND COMMUNICATION I",
+    "description": "Course Description: This course explores the use of different types of media (e.g., text, images, sound, animation) to convey ideas and facilitate interaction. Topics include the design and use of a range of software tools for media creation and editing, covering image, sound, animation and video. This knowledge will be applied to authoring web sites. Extra Information: 2 lecture hours, 2 laboratory/tutorial hours.",
+    "components": [
+      {
+        "section": "200",
+        "component": "LEC",
+        "nbr": "1940",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " Blended"
+      },
+      {
+        "section": "201",
+        "component": "LEC",
+        "nbr": "1945",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " Blended"
+      },
+      {
+        "section": "003",
+        "component": "LAB",
+        "nbr": "1992",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "004",
+        "component": "LAB",
+        "nbr": "2683",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "005",
+        "component": "LAB",
+        "nbr": "2015",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "006",
+        "component": "LAB",
+        "nbr": "1993",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "007",
+        "component": "LAB",
+        "nbr": "2775",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "008",
+        "component": "LAB",
+        "nbr": "1994",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "009",
+        "component": "LAB",
+        "nbr": "2004",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "010",
+        "component": "LAB",
+        "nbr": "1995",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "011",
+        "component": "LAB",
+        "nbr": "1996",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "012",
+        "component": "LAB",
+        "nbr": "1997",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "013",
+        "component": "LAB",
+        "nbr": "1998",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "014",
+        "component": "LAB",
+        "nbr": "2897",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "015",
+        "component": "LAB",
+        "nbr": "1999",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "016",
+        "component": "LAB",
+        "nbr": "2000",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "017",
+        "component": "LAB",
+        "nbr": "2001",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "018",
+        "component": "LAB",
+        "nbr": "2016",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "019",
+        "component": "LAB",
+        "nbr": "2002",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "020",
+        "component": "LAB",
+        "nbr": "2898",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "021",
+        "component": "LAB",
+        "nbr": "2003",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "022",
+        "component": "LAB",
+        "nbr": "2017",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "023",
+        "component": "LAB",
+        "nbr": "2018",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "024",
+        "component": "LAB",
+        "nbr": "2019",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "025",
+        "component": "LAB",
+        "nbr": "3023",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "026",
+        "component": "LAB",
+        "nbr": "2020",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "027",
+        "component": "LAB",
+        "nbr": "2021",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "028",
+        "component": "LAB",
+        "nbr": "2243",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "029",
+        "component": "LAB",
+        "nbr": "3021",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "030",
+        "component": "LAB",
+        "nbr": "3022",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "031",
+        "component": "LAB",
+        "nbr": "2244",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "032",
+        "component": "LAB",
+        "nbr": "3668",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 1037A - COMP SCI FUNDAMENTALS II",
+    "description": "Course Description: A continuation for Engineering Science 1036A/B. Data organization and manipulation; abstract data types and their implementations in the C programming language; lists, stacks, queues, trees; pointers; recursion; file handling and storage. Intended for students in the Faculty of Engineering. Antirequisite(s): Computer Science 1027A/B, Computer Science 2121A/B, Digital Humanities 2221A/B. Extra Information: 3 lecture hours, 2 laboratory/tutorial hour.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1780",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1780",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "002",
+        "component": "LAB",
+        "nbr": "2005",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "003",
+        "component": "LAB",
+        "nbr": "2022",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 2033A - MULTIMEDIA & COMMUNICATION II",
+    "description": "Course Description: This course continues the exploration of popular media and Internet technologies. Topics include advanced photo editing techniques; website development with HTML, CSS, and JavaScript; making websites more interactive; form validation; Bootstrap websites; and the significance of CMS's and e-commerce platforms. Extra Information: 2 lecture hours, 2 laboratory/tutorial hours.",
+    "components": [
+      {
+        "section": "200",
+        "component": "LEC",
+        "nbr": "7251",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " Blended"
+      },
+      {
+        "section": "002",
+        "component": "LAB",
+        "nbr": "7252",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "003",
+        "component": "LAB",
+        "nbr": "7253",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "004",
+        "component": "LAB",
+        "nbr": "7254",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "005",
+        "component": "LAB",
+        "nbr": "7255",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "006",
+        "component": "LAB",
+        "nbr": "7256",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 2034B - DATA ANALYTICS: PRNCPLES & TLS",
+    "description": "Course Description: A comprehensive and interdisciplinary introduction to data analytics using modern computing systems, with equal attention to fundamentals and practical aspects. Topics include sources of data, data formats and transformation, usage of spreadsheets and databases, statistical analysis, pattern recognition, data mining, big data, and methods for data presentation and visualization. Antirequisite(s): Digital Humanities 2144A/B, Earth Sciences 2222A/B. Extra Information: 2 lecture hours, 2 laboratory/tutorial hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "3222",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "002",
+        "component": "LAB",
+        "nbr": "3223",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "003",
+        "component": "LAB",
+        "nbr": "3224",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "004",
+        "component": "LAB",
+        "nbr": "3225",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "005",
+        "component": "LAB",
+        "nbr": "3628",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "006",
+        "component": "LAB",
+        "nbr": "3725",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "007",
+        "component": "LAB",
+        "nbr": "4513",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 2035B - DATA ANALYSIS & VISUALIZATION",
+    "description": "Course Description: Essential skills and computational tools for working with data from a number of disciplines. Uses MATLAB for data analysis and visualization through basic statistics, numerical computing, and programming, with interdisciplinary applications ranging from image processing to financial computing, and more. Suitable for both Computer Science and non-Computer Science students. Antirequisite(s): Earth Sciences 2222A/B. Extra Information: 3 lecture hours, 1 laboratory/tutorial hour.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "3172",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "3172",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "002",
+        "component": "LAB",
+        "nbr": "3173",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "003",
+        "component": "LAB",
+        "nbr": "3497",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "004",
+        "component": "LAB",
+        "nbr": "5859",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 2120A - CODING ESSENTIALS",
+    "description": "Course Description: Essential information processing and coding skills for students. Includes core concepts of algorithms and data structures; creating programs and scripts to address problems that arise in applied research; examples of data sets and analyses drawn from a variety of disciplines. No previous programming background assumed. Antirequisite(s): Computer Science 1025A/B or Computer Science 1026A/B, Data Science 1200A/B, Engineering Science 1036A/B, Digital Humanities 2220A/B. Extra Information: 3 lecture hours, 2 laboratory/tutorial hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "2868",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "2868",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "002",
+        "component": "TUT",
+        "nbr": "2869",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "003",
+        "component": "TUT",
+        "nbr": "3001",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "004",
+        "component": "TUT",
+        "nbr": "5860",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 2121B - PROBLEM SOLVING: PROGRAMMING",
+    "description": "Course Description: An overview of core data structures and algorithms in computing, with a focus on applications to informatics and analytics in a variety of disciplines. Includes lists, stacks, queues, trees, graphs, and their associated algorithms; sorting, searching, and hashing techniques. Suitable for non-Computer Science students. Antirequisite(s): Computer Science 1027A/B, Computer Science 1037A/B, Digital Humanities 2221A/B. Extra Information: 3 lecture hours, 1 laboratory/tutorial hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "2890",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "2890",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "002",
+        "component": "LAB",
+        "nbr": "2891",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "003",
+        "component": "LAB",
+        "nbr": "3005",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 2208A - INTRO TO COMP ORG & ARCHITECT",
+    "description": "Course Description: This course gives an understanding of what a modern computer can do. It covers the internal representation of various data types and focuses on the architectural components of computers (how these components are interconnected and the nature of the information flow between them). Assembly language is used to reinforce these issues. Extra Information: 3 lecture hours, 1 laboratory hour, 1 tutorial hour.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "4894",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "4894",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "002",
+        "component": "TUT",
+        "nbr": "4895",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "003",
+        "component": "LAB",
+        "nbr": "4898",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "004",
+        "component": "LAB",
+        "nbr": "4897",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "005",
+        "component": "LAB",
+        "nbr": "4896",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "006",
+        "component": "LAB",
+        "nbr": "5447",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "007",
+        "component": "LAB",
+        "nbr": "5861",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "008",
+        "component": "LAB",
+        "nbr": "5448",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "009",
+        "component": "LAB",
+        "nbr": "5862",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "010",
+        "component": "LAB",
+        "nbr": "11924",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 2208B - INTRO TO COMP ORG & ARCHITECT",
+    "description": "Course Description: This course gives an understanding of what a modern computer can do. It covers the internal representation of various data types and focuses on the architectural components of computers (how these components are interconnected and the nature of the information flow between them). Assembly language is used to reinforce these issues. Extra Information: 3 lecture hours, 1 laboratory hour, 1 tutorial hour.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "3391",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "3391",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "002",
+        "component": "TUT",
+        "nbr": "3669",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "003",
+        "component": "LAB",
+        "nbr": "3392",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "004",
+        "component": "LAB",
+        "nbr": "3393",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "005",
+        "component": "LAB",
+        "nbr": "3395",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "006",
+        "component": "LAB",
+        "nbr": "3394",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "007",
+        "component": "LAB",
+        "nbr": "4436",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "008",
+        "component": "LAB",
+        "nbr": "4517",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "009",
+        "component": "LAB",
+        "nbr": "4320",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "010",
+        "component": "LAB",
+        "nbr": "11961",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 2209A - APPLIED LOGIC FOR COMP SCI",
+    "description": "Course Description: Propositional and predicate logic; representing static and dynamic properties of real-world systems; logic as a tool for representation, reasoning and calculation; logic and programming. Extra Information: 3 lecture hours, 1 laboratory/tutorial hour.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "4321",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "4321",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "002",
+        "component": "TUT",
+        "nbr": "4902",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "003",
+        "component": "TUT",
+        "nbr": "4903",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "004",
+        "component": "TUT",
+        "nbr": "4904",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "005",
+        "component": "TUT",
+        "nbr": "4905",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "006",
+        "component": "TUT",
+        "nbr": "4906",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "007",
+        "component": "TUT",
+        "nbr": "5454",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "008",
+        "component": "TUT",
+        "nbr": "11937",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 2209B - APPLIED LOGIC FOR COMP SCI",
+    "description": "Course Description: Propositional and predicate logic; representing static and dynamic properties of real-world systems; logic as a tool for representation, reasoning and calculation; logic and programming. Extra Information: 3 lecture hours, 1 laboratory/tutorial hour.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "5089",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "5089",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "002",
+        "component": "TUT",
+        "nbr": "5090",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "003",
+        "component": "TUT",
+        "nbr": "5091",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "004",
+        "component": "TUT",
+        "nbr": "5092",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "005",
+        "component": "TUT",
+        "nbr": "5093",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "006",
+        "component": "TUT",
+        "nbr": "5094",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "007",
+        "component": "TUT",
+        "nbr": "7006",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "008",
+        "component": "TUT",
+        "nbr": "11938",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "009",
+        "component": "TUT",
+        "nbr": "11973",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 2210A - DATA STRUCTURES & ALGORITHMS",
+    "description": "Course Description: Lists, stacks, queues, priority queues, trees, graphs, and their associated algorithms; file structures; sorting, searching, and hashing techniques; time and space complexity. Antirequisite(s): Software Engineering 2205A/B. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1459",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1459",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "002",
+        "component": "LEC",
+        "nbr": "10590",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "002",
+        "component": "LEC",
+        "nbr": "10590",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 2210B - DATA STRUCTURES & ALGORITHMS",
+    "description": "Course Description: Lists, stacks, queues, priority queues, trees, graphs, and their associated algorithms; file structures; sorting, searching, and hashing techniques; time and space complexity. Antirequisite(s): Software Engineering 2205A/B. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1460",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1460",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "002",
+        "component": "LEC",
+        "nbr": "11972",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 2211A - SFTWR TOOLS & SYSTEMS PRGRMING",
+    "description": "Course Description: An introduction to software tools and systems programming. Topics include: understanding how programs execute (compilation, linking and loading); an introduction to a complex operating system (UNIX); scripting languages; the C programming language; system calls; memory management; libraries; multi-component program organization and builds; version control; debuggers and profilers. Extra Information: 3 lecture hours, 1 laboratory/tutorial hour.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1461",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1461",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "002",
+        "component": "LEC",
+        "nbr": "10592",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "002",
+        "component": "LEC",
+        "nbr": "10592",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "003",
+        "component": "LAB",
+        "nbr": "2688",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "004",
+        "component": "LAB",
+        "nbr": "3963",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "005",
+        "component": "LAB",
+        "nbr": "2689",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "006",
+        "component": "LAB",
+        "nbr": "3421",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "007",
+        "component": "LAB",
+        "nbr": "3964",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "008",
+        "component": "LAB",
+        "nbr": "3670",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "009",
+        "component": "LAB",
+        "nbr": "3671",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "010",
+        "component": "LAB",
+        "nbr": "4514",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "011",
+        "component": "LAB",
+        "nbr": "4515",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "012",
+        "component": "LAB",
+        "nbr": "4842",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "013",
+        "component": "LAB",
+        "nbr": "5455",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "014",
+        "component": "LAB",
+        "nbr": "5456",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "015",
+        "component": "LAB",
+        "nbr": "5863",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "016",
+        "component": "LAB",
+        "nbr": "2687",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "017",
+        "component": "LAB",
+        "nbr": "11934",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "018",
+        "component": "LAB",
+        "nbr": "11935",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "019",
+        "component": "LAB",
+        "nbr": "11968",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "020",
+        "component": "LAB",
+        "nbr": "11969",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 2211B - SFTWR TOOLS & SYSTEMS PRGRMING",
+    "description": "Course Description: An introduction to software tools and systems programming. Topics include: understanding how programs execute (compilation, linking and loading); an introduction to a complex operating system (UNIX); scripting languages; the C programming language; system calls; memory management; libraries; multi-component program organization and builds; version control; debuggers and profilers. Extra Information: 3 lecture hours, 1 laboratory/tutorial hour.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1462",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1462",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "002",
+        "component": "LAB",
+        "nbr": "2690",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "003",
+        "component": "LAB",
+        "nbr": "2691",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "004",
+        "component": "LAB",
+        "nbr": "4325",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "005",
+        "component": "LAB",
+        "nbr": "4516",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "006",
+        "component": "LAB",
+        "nbr": "5864",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "007",
+        "component": "LAB",
+        "nbr": "8060",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 2212A - INTRO TO SOFTWARE ENGINEERING",
+    "description": "Course Description: A team project course that provides practical experience in the software engineering field. Introduction to the structure and unique characteristics of large software systems, and concepts and techniques in the design, management and implementation of large software systems. Antirequisite(s): Software Engineering 2203A/B if taken before the 2022-2023 academic year. Extra Information: 3 lecture/tutorial hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "4899",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "4899",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 2212B - INTRO TO SOFTWARE ENGINEERING",
+    "description": "Course Description: A team project course that provides practical experience in the software engineering field. Introduction to the structure and unique characteristics of large software systems, and concepts and techniques in the design, management and implementation of large software systems. Antirequisite(s): Software Engineering 2203A/B if taken before the 2022-2023 academic year. Extra Information: 3 lecture/tutorial hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1463",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1463",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 2214A - DISCRETE STRUCTURES FOR CMP",
+    "description": "Course Description: This course presents an introduction to the mathematical foundations of computer science, with an emphasis on mathematical reasoning, combinatorial analysis, discrete structures, applications and modeling, and algorithmic thinking. Topics include sets, functions, relations, algorithms, number theory, matrices, mathematical reasoning, counting, graphs and trees. Antirequisite(s): Mathematics 2151A/B, Mathematics 2155F/G. Extra Information: 3 lecture hours, 1 laboratory/tutorial hour.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "4900",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "4900",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "002",
+        "component": "TUT",
+        "nbr": "4901",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 2214B - DISCRETE STRUCTURES FOR CMP",
+    "description": "Course Description: This course presents an introduction to the mathematical foundations of computer science, with an emphasis on mathematical reasoning, combinatorial analysis, discrete structures, applications and modeling, and algorithmic thinking. Topics include sets, functions, relations, algorithms, number theory, matrices, mathematical reasoning, counting, graphs and trees. Antirequisite(s): Mathematics 2151A/B, Mathematics 2155F/G. Extra Information: 3 lecture hours, 1 laboratory/tutorial hour.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "4323",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "4323",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "002",
+        "component": "TUT",
+        "nbr": "4324",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 3120A - DATABASES FOR INFORMATICS",
+    "description": "Course Description: A study of relational databases. Theoretical concepts will be covered, including relational algebra and relational calculus. Commercially available database systems will be used to demonstrate concepts such as Structured-Query-Language (SQL), writing code to connect and query a database, query optimization, Atomicity-Consistency-Isolation-Durability (ACID) concepts, and database design. Antirequisite(s): Computer Science 3319A/B, Software Engineering 3309A/B, Digital Humanities 3220A/B. Extra Information: 3 lecture hours",
+    "components": [
+      {
+        "section": "200",
+        "component": "LEC",
+        "nbr": "3430",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " Blended"
+      },
+      {
+        "section": "200",
+        "component": "LEC",
+        "nbr": "3430",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " Blended"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 3121A - ARTIFICIAL INTELLIGENCE",
+    "description": "Course Description: An introduction to artificial intelligence, focused on its application to informatics and analytics. Topics include knowledge representation; logic and reasoning; searching; inferencing; expert systems. Suitable for non Computer Science students. Antirequisite(s): Computer Science 3346A/B. Extra Information: 3 lecture hours..",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "5357",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "5357",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 3305A - OPERATING SYSTEMS",
+    "description": "Course Description: Survey of major operating systems; interprocess communication; multi-tasking; scheduling; memory management; performance and measurement issues; trade-offs in operating system design; concurrency and deadlock. Antirequisite(s): Software Engineering 3313A/B. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "4322",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "4322",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 3305B - OPERATING SYSTEMS",
+    "description": "Course Description: Survey of major operating systems; interprocess communication; multi-tasking; scheduling; memory management; performance and measurement issues; trade-offs in operating system design; concurrency and deadlock. Antirequisite(s): Software Engineering 3313A/B. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "7008",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "7008",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 3307A - OBJCT-ORIENTD DESGN & ANALYSIS",
+    "description": "Course Description: Software design and analysis techniques with particular emphasis on object-oriented design and analysis; a team project will be developed using an object-oriented language such as Java, C++ or Smalltalk. Antirequisite(s): Software Engineering 3350A/B if taken before the 2022-2023 academic year. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "2692",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "2692",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 3307B - OBJCT-ORIENTD DESGN & ANALYSIS",
+    "description": "Course Description: Software design and analysis techniques with particular emphasis on object-oriented design and analysis; a team project will be developed using an object-oriented language such as Java, C++ or Smalltalk. Antirequisite(s): Software Engineering 3350A/B if taken before the 2022-2023 academic year. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "7009",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "7009",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "002",
+        "component": "LEC",
+        "nbr": "12080",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "002",
+        "component": "LEC",
+        "nbr": "12080",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 3319A - DATABASES I",
+    "description": "Course Description: A study of relational databases. Theoretical concepts will be covered, including relational algebra and relational calculus. Commercially available database systems will be used to demonstrate concepts such as Structured-Query-Language (SQL), writing code to connect and query a database, query optimization, Atomicity-Consistency-Isolation-Durability (ACID) concepts, and database design. Antirequisite(s): Computer Science 3120A/B, Digital Humanities 3220A/B, and Software Engineering 3309A/B. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "200",
+        "component": "LEC",
+        "nbr": "1490",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " Blended"
+      },
+      {
+        "section": "200",
+        "component": "LEC",
+        "nbr": "1490",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " Blended"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 3319B - DATABASES I",
+    "description": "Course Description: A study of relational databases. Theoretical concepts will be covered, including relational algebra and relational calculus. Commercially available database systems will be used to demonstrate concepts such as Structured-Query-Language (SQL), writing code to connect and query a database, query optimization, Atomicity-Consistency-Isolation-Durability (ACID) concepts, and database design. Antirequisite(s): Computer Science 3120A/B, Digital Humanities 3220A/B, and Software Engineering 3309A/B. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "11651",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "11651",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 3331A - FOUNDATIONS OF COMP SCI I",
+    "description": "Course Description: Languages as sets of strings over an alphabet; operations on languages; finite automata, regular expressions; language hierarchy; Turing machines; models of computation. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1273",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1273",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 3340B - ANALYSIS OF ALGORITHMS I",
+    "description": "Course Description: Upper and lower time and space bounds; levels of intractability; graph algorithms; greedy algorithms; dynamic algorithms; exhaustive search techniques; parallel algorithms. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1274",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1274",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 3342B - ORGANIZATN OF PROGRAMMING LANG",
+    "description": "Course Description: Specification and analysis of programming languages; data types and structures; bindings and access structures; run-time behavior of programs; compilation vs. interpretation. Comparative presentation of at least three programming languages addressing the above concepts. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1275",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1275",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 3346A - ARTIF INTELLIGE I",
+    "description": "Course Description: Introduction to Artificial Intelligence; logic programming; heuristic search; knowledge representation; expert systems. Antirequisite(s): Computer Science 3121A/B. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "5358",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "5358",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 3350B - COMPUTER ORGANIZATION",
+    "description": "Course Description: Topics include: semiconductor technologies, gates and circuits, buses, semiconductor memories, peripheral interfaces, I/O techniques, A/D conversion, standards, RISC. Antirequisite(s): ECE 3375A/B. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1491",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1491",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 3357A - COMPUTER NETWORKS I",
+    "description": "Course Description: Common network protocols; inter-networking; gateways; routers; bridges; survey of commercial architectures; standards. Antirequisite(s): ECE 4436A/B. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "2405",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "2405",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 3377B - SOFTWARE PROJECT MANAGEMENT",
+    "description": "Course Description: The software development life cycle; resourcing, scheduling and estimating techniques for software project management; project management organizational concerns, including project economic analysis, human resources, proposal development, risk management, software implementation, and technology-strategic alignment. Antirequisite(s): Science 3377A/B, SE 3351A/B. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "3408",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 3380F - PROJECT",
+    "description": "Course Description: A supervised study involving a research paper, the design of or development of a software project. Antirequisite(s): Computer Science 4460Z, Computer Science 4470Y, Computer Science 4480Y, Computer Science 4490Z. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "2828",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 3380G - PROJECT",
+    "description": "Course Description: A supervised study involving a research paper, the design of or development of a software project. Antirequisite(s): Computer Science 4460Z, Computer Science 4470Y, Computer Science 4480Y, Computer Science 4490Z. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "2826",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 3380Z - PROJECT",
+    "description": "Course Description: A supervised study involving a research paper, the design of or development of a software project. Antirequisite(s): Computer Science 4460Z, Computer Science 4470Y, Computer Science 4480Y, Computer Science 4490Z. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "2684",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 3388B - COMPUTER GRAPHICS I",
+    "description": "Course Description: The viewing pipeline; clipping and visibility problems. The graphical kernel system; picture generation and user interfaces. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "4823",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "4823",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 4402B - PARALLEL & DISTRIBUTED COMP.",
+    "description": "Course Description: This course studies the fundamental aspects of parallel and distributed systems, providing an integrated view of the various facets of software development on such systems: hardware architectures, programming languages, computational models, software development tools and design patterns, performance modelling and analysis, experimenting and measuring, application to scientific computing. Extra Information: 3 lecture hours. Note: Computer Science 3331A/B and Computer Science 3305A/B or equivalent are recommended.",
+    "components": [
+      {
+        "section": "650",
+        "component": "LEC",
+        "nbr": "10594",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " Distance Studies/Online"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 4411A - DATABASES II",
+    "description": "Course Description: Advanced database topics such as: query optimization and execution; advanced concurrency control and recovery concepts; distributed databases; XML databases; database security and privacy; databases in the cloud; information retrieval. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "5865",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "5865",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 4417B - UNSTRUCTURED DATA",
+    "description": "Course Description: Management and analysis of unstructured data, with a focus on text data, for example transaction logs, news text, article abstracts, and microblogs. Overview of unstructured image, audio, and video data. Hands-on experience with modern distributed data management and analysis infrastructure. Antirequisite(s): Computer Science 4433A/B/Y if taken during Fall/Winter 2017 or 2018. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "4518",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "4518",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 4442A - ARTIFICIAL INTELLIGENCE II",
+    "description": "Course Description: A selection from: first order logic and theorem proving; computational linguistics; computer vision; robotics; knowledge acquisition; machine learning. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "7007",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "7007",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 4442B - ARTIFICIAL INTELLIGENCE II",
+    "description": "Course Description: A selection from: first order logic and theorem proving; computational linguistics; computer vision; robotics; knowledge acquisition; machine learning. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "4824",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "4824",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 4446A - INTERNET ALGORITHMICS",
+    "description": "Course Description: This course focuses on the study of algorithms for solving problems that arise from the design and use of large networks, like the Internet. Topics include: Computer networks and internets, distributed algorithms, peer-to-peer systems, the Web graph and searching for information in the Web, caching, and Game Theory. Antirequisite(s): Computer Science 4438A/B, if taken during the 2018-2019, 2021-2022 academic years; Software Engineering 3314A/B. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "11440",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 4458A - NETWORK SECURITY",
+    "description": "Course Description: This course will aim at providing a comprehensive understanding of various security issues in an end-to-end network. The list of these topics includes message/user authentication, cryptographic key management, web security, TLS, wireless/5G security, e-mail security, DNS security, IPSec, VPN security, Malware, Firewall, network intrusion detection/prediction/prevention, DoS/DDoS, Cloud and IoT Security. Antirequisite(s): Computer Science 4434A/B, if taken during the 2021-2022 academic year; Computer Science 4457A/B, if taken during the 2020-2021 academic year. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "7524",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 4459B - SEL TOP SCALABLE & ROBUST DIST",
+    "description": "Course Description: This course presents fundamental concepts related to the design and implementation of distributed systems. The course teaches the abstractions, design and algorithms that enable the development of scalable and robust distributed systems. Topics include interprocess communication, clocks, replication, data consistency models, consistent hashing, and failure handling. Antirequisite(s): Computer Science 4435A/B, if taken during the 2021-2022 academic year. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "7529",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "7529",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 4460Z - BIOINFORMATICS THESIS",
+    "description": "Course Description: A project or research paper in an area related to bioinformatics, completed under faculty supervision. An oral presentation plus a written submission will be required. Antirequisite(s): Computer Science 3380F/G/Z, Computer Science 4470Y, Computer Science 4480Y, Computer Science 4490Z. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1799",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 4463A - COMPUTATIONAL BIOLOGY",
+    "description": "Course Description: Bioinformatics studies biological problems using biological, computational, and mathematical methods. Computational biology studies computational techniques that can solve biological problems efficiently. This course emphasizes the design, analysis and implementation of algorithms for problems motivated from molecular biology research. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "4855",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 4470Y - SOFT MAINT AND CON MGMT",
+    "description": "Course Description: An examination of industrial-style software development issues related to managing and maintaining large-scale software systems; in a group project, students will examine software maintenance and configuration management concepts, tools, techniques, risks and benefits; case studies. Antirequisite(s): Computer Science 3380F/G/Z, Computer Science 4460Z, Computer Science 4480Y, Computer Science 4490Z, the former Software Engineering 4453A/B. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1515",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 4471A - SOFTWARE DESIGN AND ARCH",
+    "description": "Course Description: Introduction to advanced software design concepts; architectures of complex software systems; domain-independent design patterns; creation of a functional partitioning for a novel domain; recognition of common architectural idioms. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "6474",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 4472A - SPEC. TESTING AND QUALITY",
+    "description": "Course Description: Concepts and state of the art techniques in software specification and quality assessment for software engineering; quality attributes; formal specification and analysis; verification and validation. Antirequisite(s): Software Engineering 4452A/B, the former Software Engineering 4453A/B. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "11703",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 4473B - REQUIREMENT ANALYSIS",
+    "description": "Course Description: The development of requirements for software-intensive systems through successful requirements analysis techniques and requirements engineering; an in-depth study of methods, tools, notations, and validation techniques for the analysis and specification of software requirements. Antirequisite(s): Software Engineering 3352A/B. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "11702",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 4474B - HUMAN-COMPUTER INTERACTION",
+    "description": "Course Description: Exposure to topics in human-computer interaction, including: frameworks for human-computer interaction; requirements gathering; rapid prototyping; user interface systems and tool kits. Antirequisite(s): Software Engineering 3353A/B. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1946",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 4475A - OPEN SOURCE SOFTWARE PROJECT",
+    "description": "Course Description: An examination of large-scale software development in the context of a distributed, multi-university open source software project organized by the Undergraduate Capstone Open Source Projects (UCOSP) initiative (see http://ucosp.ca for details). Students will receive practical hands-on experience in working in software development, as well as valuable soft skills and team experience. Antirequisite(s): Computer Science 4438A/B/Y if taken during the 2012-2013 academic year. Extra Information: 3 lecture hours. Note: Students must notify the Department of their interest in registration in the course prior to the preceding May 1st for Computer Science 4475A or September 1st for Computer Science 4475B. Registration in the course is conditional and competitive as course costs and coordination are provided by UCOSP. A committee will adjudicate students on the basis of grades in program courses and a statement of interest submitted as part of the application process. Students must be able to travel to an initial meeting at the beginning of the course; in the case that this meeting is outside of Canada, students will need valid travel documentation and must consult with the Department in advance if this is an issue. Costs related to this travel will be reimbursed by UCOSP; details will be provided prior to registration.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "10595",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 4475B - OPEN SOURCE SOFTWARE PROJECT",
+    "description": "Course Description: An examination of large-scale software development in the context of a distributed, multi-university open source software project organized by the Undergraduate Capstone Open Source Projects (UCOSP) initiative (see http://ucosp.ca for details). Students will receive practical hands-on experience in working in software development, as well as valuable soft skills and team experience. Antirequisite(s): Computer Science 4438A/B/Y if taken during the 2012-2013 academic year. Extra Information: 3 lecture hours. Note: Students must notify the Department of their interest in registration in the course prior to the preceding May 1st for Computer Science 4475A or September 1st for Computer Science 4475B. Registration in the course is conditional and competitive as course costs and coordination are provided by UCOSP. A committee will adjudicate students on the basis of grades in program courses and a statement of interest submitted as part of the application process. Students must be able to travel to an initial meeting at the beginning of the course; in the case that this meeting is outside of Canada, students will need valid travel documentation and must consult with the Department in advance if this is an issue. Costs related to this travel will be reimbursed by UCOSP; details will be provided prior to registration.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "10596",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 4478B - MASTER THE MAINFRAME",
+    "description": "Course Description: The mainframe remains a critical piece of infrastructure for enterprise computing, with experts highly sought after by industry. This course studies the mainframe through IBM's annual Master the Mainframe program. Students are exposed to real-world development through hands-on projects, gaining valuable experience and skills for working with modern mainframe systems. Antirequisite(s): Computer Science 4434A/B/Y if taken during Fall/Winter 2014. Extra Information: 3 lecture hours. Note: Registration in the course is conditional upon acceptance into the IBM Master the Mainframe program. Students are advised that the timeline for this program varies from year to year and it is their responsibility to ensure that they can participate in the program according to their schedule and needs; consultation with the Department prior to registration is highly recommended.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "12081",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 4478Y - MASTER THE MAINFRAME",
+    "description": "Course Description: The mainframe remains a critical piece of infrastructure for enterprise computing, with experts highly sought after by industry. This course studies the mainframe through IBM's annual Master the Mainframe program. Students are exposed to real-world development through hands-on projects, gaining valuable experience and skills for working with modern mainframe systems. Antirequisite(s): Computer Science 4434A/B/Y if taken during Fall/Winter 2014. Extra Information: 3 lecture hours. Note: Registration in the course is conditional upon acceptance into the IBM Master the Mainframe program. Students are advised that the timeline for this program varies from year to year and it is their responsibility to ensure that they can participate in the program according to their schedule and needs; consultation with the Department prior to registration is highly recommended.",
+    "components": [
+      {
+        "section": "650",
+        "component": "LEC",
+        "nbr": "3691",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " Distance Studies/Online"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 4480Y - GAME DEVELOPMENT PROJECT",
+    "description": "Course Description: Industrial-style development issues related to the creation of games of commercial scale and quality, both for entertainment and serious game applications; in a group project, students will examine concepts, theories, tools, technologies, and techniques for code and content generation for modern games. Antirequisite(s): Computer Science 3380F/G/Z, Computer Science 4460Z, Computer Science 4470Y, Computer Science 4490Z. Extra Information: 2 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1927",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 4481B - IMAGE COMPRESSION",
+    "description": "Course Description: Dealing with digital pictures (images) requires far more computer memory and transmission time than is needed for plain text. This course provides students with a solid understanding of the fundamentals and the principles of various digital still-image compression schemes. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "3190",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 4482A - GAME PROGRAMMING",
+    "description": "Course Description: Core concepts and techniques of game programming, including the development and usage of game engines for the creation of games. Topics from: game engine architecture; real-time 2D and 3D rendering; character animation; shaders; real-time physics simulation, artificial intelligence, and networking; procedural methods; player input and controls; platform considerations; tools development. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1929",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1929",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 4483B - GAME DESIGN",
+    "description": "Course Description: Concepts and issues that arise in the development of games for entertainment and serious game applications, focusing on providing players with more engaging, immersive, and rewarding gameplay experiences. Group project normally required. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1928",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      },
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1928",
+        "status": " Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  },
+  {
+    "name": "COMPSCI 4490Z - THESIS",
+    "description": "Course Description: A project or research paper completed with minimal faculty supervision. An oral presentation plus a written submission will be required. Antirequisite(s): Computer Science 3380F/G/Z, Computer Science 4460Z, Computer Science 4470Y, Computer Science 4480Y. Extra Information: 3 lecture hours.",
+    "components": [
+      {
+        "section": "001",
+        "component": "LEC",
+        "nbr": "1516",
+        "status": " Not Full",
+        "campus": " Main",
+        "delivery": " In Person"
+      }
+    ]
+  }
+]
