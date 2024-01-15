@@ -2,52 +2,54 @@ import axios from "axios"
 import qs from "qs";
 import { parse } from "node-html-parser";
 
+const res = await axios.get("https://api.ipify.org?format=json", {proxy:{protocol:"http","host":'72.10.160.94', port:"8585"}})
+console.log(res.data)
+// console.log(res.data)
 
+// let newCourses = [];
+//   let data = qs.stringify({
+//     'subject': 'CALCULUS',
+//     'Designation': 'Any',
+//     'catalognbr': '',
+//     'CourseTime': 'All',
+//     'Component': 'All',
+//     'LocationCode': 'King',
+//     'command': 'search' 
+//   });
+  
+//   let config = {
+//     method: 'post',
+//     maxBodyLength: Infinity,
+//     url: 'https://studentservices.uwo.ca/secure/timetables/mastertt/ttindex.cfm',
+//     headers: { 
+//       'Content-Type': 'application/x-www-form-urlencoded'
+//     },
+//     data : data
+//   };
+  
+//   const res = await axios.request(config)
 
-let newCourses = [];
-  let data = qs.stringify({
-    'subject': 'CALCULUS',
-    'Designation': 'Any',
-    'catalognbr': '',
-    'CourseTime': 'All',
-    'Component': 'All',
-    'LocationCode': 'King',
-    'command': 'search' 
-  });
+// //   console.log(res.data)
   
-  let config = {
-    method: 'post',
-    maxBodyLength: Infinity,
-    url: 'https://studentservices.uwo.ca/secure/timetables/mastertt/ttindex.cfm',
-    headers: { 
-      'Content-Type': 'application/x-www-form-urlencoded'
-    },
-    data : data
-  };
+//   const root = parse(res.data);
   
-  const res = await axios.request(config)
+//   const courseTitles = root.querySelectorAll('.span12 h4').map((title) => {
+//       return title.text
+//   })
+//   const courseDescriptions = root.querySelectorAll('.span12 p').map((desc) => {
+//       return desc.structuredText
+//   })
+  
+//   const courseTables = root.querySelectorAll(".span12 table")
 
-//   console.log(res.data)
-  
-  const root = parse(res.data);
-  
-  const courseTitles = root.querySelectorAll('.span12 h4').map((title) => {
-      return title.text
-  })
-  const courseDescriptions = root.querySelectorAll('.span12 p').map((desc) => {
-      return desc.structuredText
-  })
-  
-  const courseTables = root.querySelectorAll(".span12 table")
-
-  courseTables.forEach((course) => {
-    const components = course.querySelectorAll('tbody tr')
-    components.map((component) =>{
+//   courseTables.forEach((course) => {
+//     const components = course.querySelectorAll('tbody tr')
+//     components.map((component) =>{
         
-    })
-  })
+//     })
+//   })
 
-  console.log(courseTables.text)
+//   console.log(courseTables.text)
 
 
 

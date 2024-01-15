@@ -309,7 +309,7 @@
         "section": "002",
         "component": "LEC",
         "nbr": "6997",
-        "status": " Not Full",
+        "status": " Full",
         "campus": " Main",
         "delivery": " In Person"
       },
@@ -317,7 +317,7 @@
         "section": "002",
         "component": "LEC",
         "nbr": "6997",
-        "status": " Not Full",
+        "status": " Full",
         "campus": " Main",
         "delivery": " In Person"
       },
@@ -373,7 +373,7 @@
         "section": "007",
         "component": "LAB",
         "nbr": "4316",
-        "status": " Not Full",
+        "status": " Full",
         "campus": " Main",
         "delivery": " In Person"
       },
@@ -413,7 +413,7 @@
         "section": "012",
         "component": "LAB",
         "nbr": "1968",
-        "status": " Not Full",
+        "status": " Full",
         "campus": " Main",
         "delivery": " In Person"
       },
@@ -469,7 +469,7 @@
         "section": "019",
         "component": "LAB",
         "nbr": "6990",
-        "status": " Full",
+        "status": " Not Full",
         "campus": " Main",
         "delivery": " In Person"
       },
@@ -477,7 +477,7 @@
         "section": "020",
         "component": "LAB",
         "nbr": "6991",
-        "status": " Not Full",
+        "status": " Full",
         "campus": " Main",
         "delivery": " In Person"
       },
@@ -737,7 +737,7 @@
         "section": "011",
         "component": "LAB",
         "nbr": "3206",
-        "status": " Not Full",
+        "status": " Full",
         "campus": " Main",
         "delivery": " In Person"
       },
@@ -745,7 +745,7 @@
         "section": "012",
         "component": "LAB",
         "nbr": "3209",
-        "status": " Full",
+        "status": " Not Full",
         "campus": " Main",
         "delivery": " In Person"
       },
@@ -761,7 +761,7 @@
         "section": "014",
         "component": "LAB",
         "nbr": "3504",
-        "status": " Not Full",
+        "status": " Full",
         "campus": " Main",
         "delivery": " In Person"
       },
@@ -777,7 +777,7 @@
         "section": "016",
         "component": "LAB",
         "nbr": "3667",
-        "status": " Full",
+        "status": " Not Full",
         "campus": " Main",
         "delivery": " In Person"
       },
@@ -2429,7 +2429,7 @@
         "section": "005",
         "component": "LAB",
         "nbr": "4516",
-        "status": " Not Full",
+        "status": " Full",
         "campus": " Main",
         "delivery": " In Person"
       },

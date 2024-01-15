@@ -15,6 +15,7 @@ export async function getCourses(
     Component: "All",
     LocationCode: "King",
     command: "search",
+    proxyConfig
   });
 
   let config = {
@@ -31,12 +32,12 @@ export async function getCourses(
   console.log(
     `[Info] About to Scrape ${subject} with the proxy ${proxyConfig.host}:${proxyConfig.port}`
   );
-  const res = await axios.request(config);
+  const res = await axios.request(config, );
 
   if (res.status == 400) throw new Error("[Error] The Proxy is Broken")
   if (res.status == 429) throw new Error("[Error] Rate Limit Reached")
   if (res.status != 200) throw new Error("[Error] General Request Error")
-  
+  console.log(`[Info] Successfully Scraped ${subject}`)
   return res;
 }
 
