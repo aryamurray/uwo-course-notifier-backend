@@ -2,13 +2,27 @@ import 'dotenv/config'
 import getProxies, { changeProxy } from './proxy.js';
 import * as cron from 'cron';
 import { getCourses, parseCourse } from './scrape.js';
-import { parse } from 'path';
 import fs from 'fs';
+import Pocketbase from "pocketbase";
+import { pbAuth, pbCheckComponent } from './pocketbase.js';
 
 console.log(`[Info] Pocketbase URL is ${process.env.POCKETBASE_URL}`);
+const pb = new Pocketbase(process.env.POCKETBASE_URL)
+const authData = await pbAuth(pb);
+
+console.log(await pbCheckComponent(pb, {
+	"section": "001",
+	"component": "LEC",
+	"nbr": "1",
+	"status": " Not Full",
+	"campus": " Main",
+	"delivery": " In Person"
+  }))
 
 let proxyList = await getProxies();
 let proxy = proxyList[0]
+
+
 
 const updateProxy = () => {
 	proxy = changeProxy(proxyList);
